@@ -1,0 +1,23 @@
+{
+  "name": "node-xmpp-client-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liviuignat/node-xmpp-client-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liviuignat/node-xmpp-client-demo/issues"
+  },
+  "homepage": "https://github.com/liviuignat/node-xmpp-client-demo",
+  "dependencies": {
+    "node-stringprep": "^0.7.0",
+    "node-xmpp-client": "^1.0.0-alpha20"
+  }
+}
